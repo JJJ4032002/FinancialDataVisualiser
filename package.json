@@ -9,13 +9,18 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@handsontable/react-wrapper": "^16.0.1",
+    "@radix-ui/react-tabs": "^1.1.12",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
+    "handsontable": "^16.0.1",
+    "hyperformula": "^3.0.1",
     "lucide-react": "^0.539.0",
     "next": "15.4.6",
     "react": "19.1.0",
     "react-dom": "19.1.0",
-    "tailwind-merge": "^3.3.1"
+    "tailwind-merge": "^3.3.1",
+    "zustand": "^5.0.7"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
